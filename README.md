@@ -63,19 +63,18 @@ The website is fully responsive and works seamlessly on:
 ## 🔗 Social Media
 
 Connect with me:
-- [Facebook](https://www.facebook.com/goyam02)
-- [Instagram](https://www.instagram.com/jgoyam02)
+- [LinkedIn](www.linkedin.com/in/goyam02)
 - [Twitter](https://x.com/goyamjain02)
 - [GitHub](https://github.com/goyam02)
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Goyam02/Travel_Website/blob/main/LICENSE) file for details.
 
 ## 👨‍💻 Author
 
 **Goyam Jain**
-- Website: [Your Website]
+- Website: https://goyam02.github.io/
 - Email: goyamjain02@gmail.com
 
 ## 🙏 Acknowledgments
