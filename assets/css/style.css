@@ -169,10 +169,33 @@ img{
 }
 
 .nav__link{
+  position: relative;
   color: var(--title-color);
   font-family: var(--second-font);
   font-weight: var(--font-medium);
 }
+
+.nav__link::after{
+  content: '';
+  width: 0;
+  height: 2px;
+  background-color: var(--title-color);
+  position: absolute;
+  bottom: -.5rem;
+  left: 0;
+  /* z-index: -1; */
+  transition: width .3s;
+}
+
+.nav__link:hover::after{
+  width: 70%;
+  
+}
+
+.active-link::after{
+  width:70%;
+}
+
 
 .nav__close{
   position: absolute;
